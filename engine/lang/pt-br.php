@@ -2,32 +2,32 @@
 
 return array(
 
-	'berta_copyright_text' => 'Développé avec <a href="http://www.berta.lv/" target="_blank" title="Créez votre portfolio avec Berta en quelques minutes !">Berta</a>',
+	'berta_copyright_text' => 'Desenvolvido com <a href="http://www.berta.lv/" target="_blank" title=Crie seu portifólio com Berta em minutos!">Berta</a>',
 
 	// Translations from the top "admin" menu
 
-		/* menu item */ 'close this' => 'fermer',
-		/* menu item */ 'my site' => 'mon site',
-		/* menu item */ 'sections' => 'sections',
-		/* menu item */ 'settings' => 'paramètres',
-		/* menu item */ 'template design' => 'design des templates',
-		/* menu item */ 'profile' => 'profil',
-		/* menu item */ 'sign out' => 'se déconnecter',
+		/* menu item */ 'close this' => 'Fechar',
+		/* menu item */ 'my site' => 'meu site',
+		/* menu item */ 'sections' => 'sessões',
+		/* menu item */ 'settings' => 'configurações',
+		/* menu item */ 'template design' => 'design do template',
+		/* menu item */ 'profile' => 'perfil',
+		/* menu item */ 'sign out' => 'desconectar',
 
 	// Translatins from login / logout window
 
-		'Logout ok. Please wait...' => 'Déconnexion. Merci de patienter…',
-		'Log in' => 'Se connecter',
+		'Logout ok. Please wait...' => 'Logout ok. Por favor aguarde…',
+		'Log in' => 'Fazer Login',
 
 	// First visit
 
-		'welcome' => 'Bienvenue !',
-		'welcome_text__not_installed' => '<h2>Merci d\'avoir choisi Berta !</h2>
-		<p>Berta n\'est pas encore installé.<br />Merci de vous <a href="./engine/">connecter</a> et de suivre la procédure d\'installation.</p>',
+		'welcome' => 'Bem vindo!',
+		'welcome_text__not_installed' => '<h2>Obrigado por escolher Berta !</h2>
+		<p>Berta não foi configurado<br />Por favor<a href="./engine/">faça login</a>e siga as instruções de instalação.</p>',
 
-		'welcome_text__not_supported' => '<h2>Merci d\'avoir choisi Berta !</h2>
-		<p>Ce serveur n\'est pas compatible avec Berta.<br />
-		Merci de vérifier que la version de PHP installée sur le serveur est égale ou supérieure à 5.</p>',
+		'welcome_text__not_supported' => '<h2>Obrigado por escolher Berta !</h2>
+		<p>Infelizmente, seu servidor não é compativel com Berta.<br />
+		Por favor, verifique se seu servidor possui PHP 5 ou superior.</p>',
 
 		'Setup your site' => 'Paramétrez votre site',
 		'setup_info_text' => 'Cliquez sur les champs sur fond jaune pour les éditer.
